@@ -17,3 +17,5 @@
 04/30 - Checked out Bloomberg terminal information on investment banks' company reports. Data was too infrequent for use, but gave some insight on how companies are evaluated. Perhaps twitter sentiment about Tesla can be a substitute for this information.
 
 05/21 - Finished deciding on model and prepped data fully. Re-read chapter 23 of Shalizi to review the estimation process.
+
+05/27 - Finished basic linear regression + backdoor estimation. Began matching. Results were subpar. Next things to try: 1) Sentiment analysis of text tweets as additional data 2) Deep learning for improved regression performance 3) RNN method from time-series paper
